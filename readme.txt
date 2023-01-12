@@ -1,5 +1,5 @@
 Simple hotkey script for trade/inventory/stash clicking for Path of Exile [clicker]. It does not violate POE TOS, because 1 key is bound to 1 action.
-Not a bot, but just doing some mouse movement and clicks.
+Not a bot, just doing some mouse movement and clicks.
 
 Hotkeys (these are on Numpad):
 CTRL + 0: move a mouse to your inventory's first position.
