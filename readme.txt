@@ -1,4 +1,4 @@
-Simple hotkey script for trade/inventory/stash clicking. It does not violate POE TOS, because 1 key is bound to 1 action.
+Simple hotkey script for trade/inventory/stash clicking for Path of Exile. It does not violate POE TOS, because 1 key is bound to 1 action.
 Not a bot, but just some mouse movement and clicks.
 
 Designed for 1920-1080 resolution. If you need others, you'll need to adjust coordinates and recomplite/start it with Autohotkey (I can also recommend a script editor there: Scite for AutoHotkey).
