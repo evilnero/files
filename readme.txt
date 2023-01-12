@@ -16,7 +16,7 @@ You can start in any other position if you're not pressing 0.
 
 //
 Support/Donate...
-I am from Russia, so getting some money from other countries there is difficult these days.
+I am from Russia, so getting donates/money from other countries here is difficult these days.
 But if you'd like to support, here is my
 Ozon (Ozon Ekom Bank) card (Russian card system MIR, not VISA/Master): 2204320103596609
 Can think about other options, if you'll contact me via Telegram: https://t.me/evilnero
