@@ -11,17 +11,16 @@ CTRL + 5: click and move mouse 1 position to the right and on top
 CTRL + 6: (deprecated) sends CTRL up (unpresses CTRL)
 CTRL + 7-9: just clicks a mouse 1 time
 
-So, generally, you can move 60 positions faster, because you're pressing not 1 mouse button, but 5 keyboard buttons.
+So, generally, you can move 60 stacks faster, because you're pressing not 1 mouse button, but 5 keyboard buttons.
 Start with CTRL+0 if you need to move to position 1:1, then repeat 1,2,3,4,5 until you're done.
-You can start at any other position if you're not pressing 0.
+You can start in any other position if you're not pressing 0.
 7,8,9 are used to move stuff stacked in your (premium) stash fast. Here too, you're using 3 keys instead of 1.
 
-It probably work better if you set high process priority.
+It will probably work better if you set high process priority.
 
 //
 Support/Donate...
-
-I am from Russia, so getting some money from other countries is there is difficult these days.
+I am from Russia, so getting some money from other countries there is difficult these days.
 But if you'd like to support, here is my
 Ozon (Ozon Ekom Bank) card (Russian card system MIR, not VISA/Master): 2204320103596609
 Can think about other options, if you'll contact me via Telegram: https://t.me/evilnero
