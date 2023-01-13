@@ -13,10 +13,3 @@ So, generally, you can click 60 stacks faster, because you're pressing not 1 mou
 Start with CTRL+0 if you need to move to position 1:1, then repeat CTRL+1,2,3,4,5 until you're done.
 You can start in any other position if you're not pressing 0.
 7,8,9 are used to move stuff stacked in your (premium) stash tabs fast. Here too, you're using 3 keys instead of 1.
-
-//
-Support/Donate...
-I am from Russia, so getting donates/money from other countries here is difficult these days.
-But if you'd like to support, here is my
-Ozon (Ozon Ekom Bank) card (Russian card system MIR, not VISA/Master): 2204320103596609
-Can think about other options, if you'll contact me via Telegram: https://t.me/evilnero
