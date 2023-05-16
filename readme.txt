@@ -1,7 +1,5 @@
 Simple hotkey script for trade/inventory/stash clicking for Path of Exile [clicker].
 
-Designed for 1920-1080 resolution. If you need others, you'll need to adjust coordinates and recomplite/start it with AutoHotkey (can recommend a _script editor_ here: Scite for AutoHotkey).
-
 Hotkeys (these are on Numpad):
 CTRL + 0: move a mouse to your inventory's first position.
 CTRL + 1-4: click and move mouse 1 position lower
