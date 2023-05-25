@@ -38,6 +38,11 @@ SetMouseDelay, 1
 MouseClick
 return
 
+^+3::
+SetMouseDelay, 1
+MouseClick
+return
+
 ^Numpad4::
 CoordMode, Mouse, Screen
 MouseClick
