@@ -34,12 +34,12 @@ MouseMove, 0, 50, 1, R
 return
 
 ^3::
-SetMouseDelay, 1
+SetMouseDelay, -1
 MouseClick
 return
 
 ^+3::
-SetMouseDelay, 1
+SetMouseDelay, -1
 MouseClick
 return
 
