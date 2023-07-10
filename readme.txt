@@ -1,7 +1,7 @@
 Simple hotkey script for trade/inventory/stash clicking for Path of Exile (POE clicker helper).
 
 Keys NOT on Numpad:
-CTRL + 3: hold it to click mouse multuple times at minimum delay (similar to scroller button clicker some people use, when they assign mouse click there)
+CTRL + 3: hold it to click mouse multuple times at minimum delay (similar to scroller button / macro clicker some people use, when they assign mouse click there)
 CTRL + SHIFT + 3: same CTRL + 3, but shift is holding, which is useful for some actions like buying multiple stacked items from vendors.
 CTRL + 2 (same as 1-4 on numpad): click and move mouse 1 position lower
 
