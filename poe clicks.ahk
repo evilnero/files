@@ -72,3 +72,14 @@ return
 MouseClick
 return
 
+^Tab::          ;CTRL+TAB to Haggle for Items (expedition, Tujen)
+if WinActive("Path of Exile") {
+ MouseGetPos, xpos, ypos
+ ;Send {Ctrl down}
+ MouseClick
+ ;Send {Ctrl up}
+ MouseMove, 633, 855
+ MouseClick
+ MouseMove, %xpos%, %ypos%
+}
+return
